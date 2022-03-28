@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace NguyenTuanAnh2022201
 {
     public class NTA0201
-    {
+    { 
         [Key]
         [varchar(20)]
         [required]
