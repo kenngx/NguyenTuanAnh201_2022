@@ -23,6 +23,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[h:/BaiKiemTra_Dotnet Core/NguyenTuanAnh2022201/Views/NTA0201/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRBMDIwMVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[h:/BaiKiemTra_Dotnet Core/NguyenTuanAnh2022201/Views/NTA0201/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRBMDIwMVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[h:/BaiKiemTra_Dotnet Core/NguyenTuanAnh2022201/Views/NTA0201/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRBMDIwMVxSZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[h:/BaiKiemTra_Dotnet Core/NguyenTuanAnh2022201/Views/NTA0201/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRBMDIwMVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [h:/BaiKiemTra_Dotnet Core/NguyenTuanAnh2022201/Views/PersonNTA2022201/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uTlRBMjAyMjIwMVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
